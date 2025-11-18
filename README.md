@@ -7,6 +7,7 @@ Este repositório contém o projeto de **Portfólio Pessoal**, desenvolvido para
 **Disciplina:** Desenvolvimento Web I  
 **Professor:** Thomaz Maia  
 **Aluno:** Karynne Mota de Abreu
+
 **Período:** 4º semestre  
 
 ---
