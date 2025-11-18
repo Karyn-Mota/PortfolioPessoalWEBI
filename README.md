@@ -6,9 +6,8 @@ Este repositório contém o projeto de **Portfólio Pessoal**, desenvolvido para
 **Instituição:** Instituto Federal do Ceará – Campus Maranguape  
 **Disciplina:** Desenvolvimento Web I  
 **Professor:** Thomaz Maia  
-**Aluno:** *Seu nome aqui*  
-**Período:** 1º semestre  
-**Publicação:** GitHub Pages  
+**Aluno:** *Karynne Mota de Abreu*  
+**Período:** 4º semestre  
 
 ---
 
